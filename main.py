@@ -33,6 +33,6 @@ client = commands.Bot(command_prefix='`', intents=discord.Intents.all())
 for i in range(len(cogs)):
     cogs[i].setup(client)
 
-client.run("OTE5MDA5NDQzMTY4MDE0NDA3.YbPkPQ.ilqAYEtG0pKBRZI2QbEflVqkTqs")
+client.run("your_bots_token")
 
 # startup();
